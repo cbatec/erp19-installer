@@ -16,3 +16,5 @@ Run this on a **fresh Ubuntu 22.04 server**:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/cbatec/erp19-installer/main/install.sh)
+
+bash <(curl -s https://raw.githubusercontent.com/cbatec/erp19-installer/main/install.sh)
