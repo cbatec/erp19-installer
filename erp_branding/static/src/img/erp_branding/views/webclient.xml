@@ -1,0 +1,13 @@
+<odoo>
+    <template id="custom_logo" inherit_id="web.webclient_bootstrap">
+        <xpath expr="//link[@rel='shortcut icon']" position="replace">
+            <link rel="shortcut icon" type="image/png" href="/erp_branding/static/src/img/logo.png"/>
+        </xpath>
+    </template>
+
+    <template id="custom_title" inherit_id="web.layout">
+        <xpath expr="//title" position="replace">
+            <title>ERP</title>
+        </xpath>
+    </template>
+</odoo>
