@@ -1,14 +1,12 @@
-# erp19-installer
-
 # ERP 19 Installer (Production Ready)
 
-This project provides a **one-command installer** for deploying a complete ERP system based on Odoo 19 Community Edition.
+This project provides a **one-command installer** to deploy a complete ERP system based on Odoo 19 Community Edition.
 
 Designed for:
 - ERP deployments
 - CRM systems
-- Automation platforms
-- White-labeled business solutions
+- Business automation
+- White-labeled client solutions
 
 ---
 
